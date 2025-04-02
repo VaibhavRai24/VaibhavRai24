@@ -13,7 +13,7 @@ I'm open to **internship opportunities** and collaborations where I can contribu
 ## 📫 How to Reach Me
 - **Email**: [infinityloop0624@gmail.com](mailto:infinityloop0624@gmail.com)
 - **GitHub**: [@VaibhavRai24](https://github.com/VaibhavRai24)  
-- **LinkedIn**: (Add your LinkedIn link here if you have one!)
+- **LinkedIn**: (in/vaibhav-rai-240607xxx)
 
 ## ⚡ Fun Fact
 I love solving real-world problems with AI and automating mundane tasks. Always curious to explore the next big thing in AI! 🚀
