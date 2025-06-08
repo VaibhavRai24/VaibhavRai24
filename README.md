@@ -6,6 +6,7 @@ I'm passionate about **Python, Machine Learning, Deep Learning, MLOps, SQL, Gene
 ## 🌱 Currently Learning
 - **MLOps**: Streamlining ML workflows, deployment, and automation.
 - **Generative AI (GenAI)**: Exploring cutting-edge advancements in AI-driven creativity.
+- **Data Analysis using Excel Power BI and SQL.
 
 ## 💼 Looking for Collaborations
 I'm open to **internship opportunities** and collaborations where I can contribute my skills and gain hands-on experience in ML, AI, and MLOps.
